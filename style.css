@@ -1,0 +1,48 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1683009427513-28e163402d16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+    background-size: cover;
+    opacity: 0.8;
+}
+h1{
+    color: red;
+}
+h2{
+    color: blue;
+}
+h2 p{
+    color: yellow;
+}
+p{
+    color: green;
+}
+#newpage{
+    color: red;
+    border:2px dashed black; 
+}
+.section>a{
+    color: rgb(210, 136, 7);
+    border: 2px solid;
+    border-left-color: red;
+    border-right-color: black;
+    border-top-color: green;
+    border-bottom-color: brown;
+    border-radius: 25px;
+}
+a:hover{
+    cursor: pointer;
+}
+span{
+    color: red;
+}
+.image1{
+    float: left;
+}
+.nav>a{
+    color: purple;
+    display: block;
+    width: 50px;
+}
+footer{
+    color: red;
+    border: 2px dashed black;
+}
